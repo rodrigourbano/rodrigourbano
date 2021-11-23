@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Silva</h1>
 <h3 align="center">A student developer that loves to learn new stuff</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rodrigourbano&label=Repository%20views&color=45e01a&style=flat" alt="rodrigourbano" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rodrigourbano&label=Profile%20views&color=45e01a&style=flat" alt="rodrigourbano" /> </p>
 
 - 💬 Languages I speak **Portuguese (Native) and English**
 
